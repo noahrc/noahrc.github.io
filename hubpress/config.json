@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "noahrc",
-    "repositoryName": "noahrc.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"noahrc","repositoryName":"noahrc.github.io","branch":"master"},"site":{"title":"Noah Robison-Cox","description":"Front end developer","postsPerPage":"10","url":"https://noahrc.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//noahrc.github.io/themes/Casper"}}
