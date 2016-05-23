@@ -1,3 +1,12 @@
-= Hubpress Test
+= Wireframing in the Cloud
 
-Testing out hubpress.
+In web design, wireframes (or user interface wireframes or mockups) act as the blueprints of a site. They define the information that will go on a page and how it will be organized before any design or coding takes place. Wireframes can be created in a number of different applications or even drawn by hand. In the past, I used Omnigraffle and Powerpoint for wireframing. Omnigraffle has a library of free templates you can pull from and Powerpoint is easy to present and share with clients, especially if they want to make their own modifications. Another popular wireframing tool is Balsamiq, which offers some nice collaboration features, but I personally can’t stand the way it looks, especially the Comic Sans font.
+
+Within the past year or two, a number of online tools for wireframing have popped up. They offer the benefit of easy collaboration, since the wireframes are stored in the cloud. Over the past few months I’ve tried a number of them, including mockingbird, Hot Gloo, cacoo and MockFlow. Of that group, I’ve been the most impressed with MockFlow and HotGloo. Both have a similar feature set, and while Hot Gloo might be a little more advanced, MockFlow is currently a bit cheaper and it’s what I’ve spent the most time with. Here are some of the advantages I’ve noticed with cloud-based wireframing in MockFlow:
+
+You can chat and add notes to a wireframe while you’re presenting it online
+Older versions of the wireframe are backed up online as you save
+You can access a library of user created templates in addition to the standard ones
+You can add link functionality to make the wireframe act as a prototype
+You can make changes to the wireframe as you present it
+Online wireframing is still relatively young, so there’s still plenty of room for competition and the features are evolving. One feature I would love to see added is instant updates that appear to a team as you work (without hitting save), like in Google Docs. Regardless, I would definitely recommend online wireframing to any team that needs to collaborate and present online.
