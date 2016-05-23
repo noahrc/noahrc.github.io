@@ -1,4 +1,5 @@
 = Wireframing in the Cloud
+:published_at: 2011-03-30
 
 In web design, wireframes (or user interface wireframes or mockups) act as the blueprints of a site. They define the information that will go on a page and how it will be organized before any design or coding takes place. Wireframes can be created in a number of different applications or even drawn by hand. In the past, I used Omnigraffle and Powerpoint for wireframing. Omnigraffle has a library of free templates you can pull from and Powerpoint is easy to present and share with clients, especially if they want to make their own modifications. Another popular wireframing tool is Balsamiq, which offers some nice collaboration features, but I personally can’t stand the way it looks, especially the Comic Sans font.
 
